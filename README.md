@@ -3,5 +3,5 @@ The official implementation of the paper: "Dual-Attention Transformer and Discri
 
 We express our gratitude for the great work:[Fastflow](https://github.com/gathierry/FastFlow), and [timm](https://github.com/huggingface/pytorch-image-models)
 <div align="center">
-  <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+  <img src="https://github.com/hmyao22/DADF/blob/main/DADF.png">
 </div>
